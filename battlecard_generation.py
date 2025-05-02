@@ -4,7 +4,7 @@ import google.generativeai as genai
 import os
 
 # Set your Gemini API key here (consider using environment variables for security)
-GEMINI_API_KEY = 'AIzaSyBYvH5IfKGfRSroSU5aM_woF8hlGLjo_Qw'
+GEMINI_API_KEY = 'Your Gemini API Key'
 
 class BattlecardGenerationModule:
     def __init__(self, competitor_profiles_file, product_info_file):
