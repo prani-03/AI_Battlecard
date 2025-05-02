@@ -2,8 +2,8 @@ import requests
 import json
 
 # API Keys
-GOOGLE_API_KEY = 'AIzaSyDqaw_zTlrS1_sNG9H5QJjSbmk90HJVyQQ'
-GOOGLE_CSE_ID = '915f47576a7e74432'
+GOOGLE_API_KEY = 'Your Google API Key'
+GOOGLE_CSE_ID = 'Your CSE ID'
 
 class DataCollectionModule:
     def __init__(self, competitors, industry_keywords):
